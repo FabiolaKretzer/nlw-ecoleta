@@ -107,3 +107,15 @@ Instação do CORS
 npm install cors
 npm install @types/cors -D
 ```
+
+Para upload de imagem
+```
+npm install multer
+npm install @types/multer -D
+```
+
+Validação dos dados
+```
+npm install celebrate
+npm install @types/hapi__joi -D
+```

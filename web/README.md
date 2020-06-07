@@ -29,3 +29,8 @@ Para fazer requisições para o back-end
 ```
 npm install axios
 ```
+
+Cria a caixa para uploada de arquivos
+```
+npm install react-dropzone
+```
