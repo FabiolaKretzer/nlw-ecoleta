@@ -2,7 +2,7 @@ import express from 'express';
 import { celebrate, Joi } from 'celebrate';
 
 import multer from 'multer';
-import multerConfig from './config/multer';
+import {storage, fileFilter} from './config/multer';
 
 import PointsController from './controllers/PointsController';
 import ItemsController from './controllers/ItemsController';
@@ -20,7 +20,7 @@ routes.post(
     celebrate({
         body: Joi.object().keys({
             name: Joi.string().required(),
-            email: Joi.string().required().email,
+            email: Joi.string().required().email(),
             whatsapp: Joi.number().required(),
             latitude: Joi.number().required(),
             longitude: Joi.number().required(),
