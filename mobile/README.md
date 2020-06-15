@@ -53,3 +53,8 @@ Para utilizar o e-mail
 ```
 expo install expo-mail-composer
 ```
+
+Para utilizar a seleção nos campos de cidade e estado
+```
+npm install react-native-picker-select
+```
