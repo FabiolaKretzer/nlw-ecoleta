@@ -13,9 +13,9 @@
 ### Web
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-home.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-home.png" width="500px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-point-1.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-point-1.png" width="500px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-point-2.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/create-point-2.png" width="500px">
 </p>
